@@ -1,1 +1,26 @@
-{"dev":{},"qa":{},"integration":{},"staging":{},"uat":{},"prod":{}}
+{
+  "dev": {
+    "data_573443": "am",
+    "data_856979": "amejwh"
+  },
+  "qa": {
+    "data_573443": "am",
+    "data_856979": "amejwh"
+  },
+  "integration": {
+    "data_573443": "am",
+    "data_856979": "amejwh"
+  },
+  "staging": {
+    "data_573443": "am",
+    "data_856979": "amejwh"
+  },
+  "uat": {
+    "data_573443": "am",
+    "data_856979": "amejwh"
+  },
+  "prod": {
+    "data_573443": "am",
+    "data_856979": "amejwh"
+  }
+}
